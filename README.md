@@ -51,3 +51,4 @@ To use your own OpenWeatherMap API key,
 1. Create an account on [https://openweathermap.org/api]
 2. In *app.js*, save your key in ```apiKey``` constant.
 ## Authors
+Afifa Ali
