@@ -1,0 +1,18 @@
+{
+  "name": "pro3",
+  "version": "1.0.0",
+  "description": "**Weather Journal** is the third project of Udacity [Front End Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) nanodegree program. It requires to build a single-page JavaScript app which creates a weather record for user based on their input and data from [OpenWeatherMap API](https://openweathermap.org/api).",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Afifa",
+  "license": "ISC"
+}
